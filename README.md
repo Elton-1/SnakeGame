@@ -24,9 +24,3 @@ If you want to build the game from source, make sure to have Visual Studio insta
 2. Open the solution file (`SnakeGame.sln`) in Visual Studio.
 3. Build and run the project.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or find a bug, feel free to open an issue or submit a pull request.
-
-Enjoy the game and happy coding!
-
