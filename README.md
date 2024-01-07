@@ -11,7 +11,7 @@ Welcome to the Snake Game repository! This classic Snake game is built in C# usi
 
 ## How to Play
 
-1. Download the latest release or clone the repository.
+1. Download the latest [release](https://www.dropbox.com/scl/fi/4s0npnl1jpci7g2nb2vx1/SnakeGame.zip?rlkey=p6u11ht76yppdwbkuxyldm3m4&dl=0) or clone the repository.
 2. Run the executable (`SnakeGame.exe`).
 3. Use WASD or arrow keys to control the snake.
 4. Eat red squares to grow and avoid collisions.
