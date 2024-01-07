@@ -16,12 +16,4 @@ Welcome to the Snake Game repository! This classic Snake game is built in C# usi
 3. Use WASD or arrow keys to control the snake.
 4. Eat red squares to grow and avoid collisions.
 
-## Building from Source
-
-If you want to build the game from source, make sure to have Visual Studio installed.
-
-1. Clone the repository.
-2. Open the solution file (`SnakeGame.sln`) in Visual Studio.
-3. Build and run the project.
-
 ![Screenshot 2024-01-07 163649](https://github.com/Elton-1/SnakeGame/assets/121693426/205981a5-e4ca-472d-83f4-9d269215574d)
